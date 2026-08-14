@@ -1,0 +1,365 @@
+(export
+  (version "D")
+  (design
+    (source "generate_schematic.py")
+    (date "08/14/2026 03:26 PM")
+    (tool "SKiDL (2.3.0)")
+    (sheet
+      (number 1)
+      (name "/")
+      (tstamps "/")
+      (title_block
+        (title)
+        (company)
+        (rev)
+        (date)
+        (source "generate_schematic.py")
+        (comment
+          (number "1")
+          (value ""))
+        (comment
+          (number "2")
+          (value ""))
+        (comment
+          (number "3")
+          (value ""))
+        (comment
+          (number "4")
+          (value ""))
+        (comment
+          (number "5")
+          (value ""))
+        (comment
+          (number "6")
+          (value ""))
+        (comment
+          (number "7")
+          (value ""))
+        (comment
+          (number "8")
+          (value ""))
+        (comment
+          (number "9")
+          (value "")))))
+  (components
+    (comp
+      (ref "C1")
+      (value "1000uF")
+      (description "")
+      (footprint "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "X38_R78MCV")
+        (field
+          (name "SKiDL Line") "generate_schematic.py:15"))
+      (libsource
+        (lib "Device")
+        (part "C_Polarized"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (tstamps "02a04900-b260-5a34-a631-714ea174da92"))
+    (comp
+      (ref "C2")
+      (value "0.1uF")
+      (description "")
+      (footprint "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "9s02r6CFpL")
+        (field
+          (name "SKiDL Line") "generate_schematic.py:16"))
+      (libsource
+        (lib "Device")
+        (part "C"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (tstamps "61fcd9c6-d240-5ae3-91a7-9436d598428a"))
+    (comp
+      (ref "J1")
+      (value "Conn_01x19")
+      (description "")
+      (footprint "Connector_PinSocket_2.54mm:PinSocket_1x19_P2.54mm_Vertical")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Connector_PinSocket_2.54mm:PinSocket_1x19_P2.54mm_Vertical")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "WTrnUWjWin")
+        (field
+          (name "SKiDL Line") "generate_schematic.py:7"))
+      (libsource
+        (lib "Connector_Generic")
+        (part "Conn_01x19"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (tstamps "8c5f7dbc-ffd9-5405-a855-11b53fb4bdff"))
+    (comp
+      (ref "J2")
+      (value "Conn_01x19")
+      (description "")
+      (footprint "Connector_PinSocket_2.54mm:PinSocket_1x19_P2.54mm_Vertical")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Connector_PinSocket_2.54mm:PinSocket_1x19_P2.54mm_Vertical")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "VrWHkU1PIT")
+        (field
+          (name "SKiDL Line") "generate_schematic.py:8"))
+      (libsource
+        (lib "Connector_Generic")
+        (part "Conn_01x19"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (tstamps "13c03a8e-92f2-5585-aa02-1289e27218a8"))
+    (comp
+      (ref "J3")
+      (value "Conn_01x02")
+      (description "")
+      (footprint "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "jHQUJ7Zngq")
+        (field
+          (name "SKiDL Line") "generate_schematic.py:12"))
+      (libsource
+        (lib "Connector_Generic")
+        (part "Conn_01x02"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (tstamps "60109d94-03e5-58cb-8a57-4c09998fdfe2"))
+    (comp
+      (ref "J4")
+      (value "Conn_01x03")
+      (description "")
+      (footprint "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-3-5.08_1x03_P5.08mm_Horizontal")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-3-5.08_1x03_P5.08mm_Horizontal")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "RhSjhLbcp1")
+        (field
+          (name "SKiDL Line") "generate_schematic.py:13"))
+      (libsource
+        (lib "Connector_Generic")
+        (part "Conn_01x03"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (tstamps "2ad9ecb6-0ee8-50ad-a50d-9ed6c7c3c637"))
+    (comp
+      (ref "R1")
+      (value "330R")
+      (description "")
+      (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "f5dxtGH9EE")
+        (field
+          (name "SKiDL Line") "generate_schematic.py:17"))
+      (libsource
+        (lib "Device")
+        (part "R"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (tstamps "14ca1a82-dbe4-58fb-b331-0b2d2367fc4c"))
+    (comp
+      (ref "U1")
+      (value "74LS125")
+      (description "")
+      (footprint "Package_DIP:DIP-14_W7.62mm")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Package_DIP:DIP-14_W7.62mm")
+        (field
+          (name "Datasheet") "http://www.ti.com/lit/gpn/sn74LS125")
+        (field
+          (name "SKiDL Tag") "qZ9kdWHhQi")
+        (field
+          (name "SKiDL Line") "generate_schematic.py:10"))
+      (libsource
+        (lib "74xx")
+        (part "74LS125"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (tstamps "9e90181a-6e06-5782-b40a-f22c913abdd0")))
+  (nets
+    (net
+      (code 1)
+      (name "+3V3")
+      (class "Default")
+      (node
+        (ref "J1")
+        (pin "1")
+        (pintype "PASSIVE")))
+    (net
+      (code 2)
+      (name "+5V")
+      (class "Default")
+      (node
+        (ref "C1")
+        (pin "1")
+        (pintype "PASSIVE"))
+      (node
+        (ref "C2")
+        (pin "1")
+        (pintype "PASSIVE"))
+      (node
+        (ref "J1")
+        (pin "19")
+        (pintype "PASSIVE"))
+      (node
+        (ref "J3")
+        (pin "1")
+        (pintype "PASSIVE"))
+      (node
+        (ref "J4")
+        (pin "1")
+        (pintype "PASSIVE"))
+      (node
+        (ref "U1")
+        (pin "10")
+        (pintype "INPUT"))
+      (node
+        (ref "U1")
+        (pin "13")
+        (pintype "INPUT"))
+      (node
+        (ref "U1")
+        (pin "14")
+        (pintype "POWER-IN"))
+      (node
+        (ref "U1")
+        (pin "4")
+        (pintype "INPUT")))
+    (net
+      (code 3)
+      (name "DATA_3V3")
+      (class "Default")
+      (node
+        (ref "J2")
+        (pin "12")
+        (pintype "PASSIVE"))
+      (node
+        (ref "U1")
+        (pin "2")
+        (pintype "INPUT")))
+    (net
+      (code 4)
+      (name "DATA_5V")
+      (class "Default")
+      (node
+        (ref "R1")
+        (pin "1")
+        (pintype "PASSIVE"))
+      (node
+        (ref "U1")
+        (pin "3")
+        (pintype "TRISTATE")))
+    (net
+      (code 5)
+      (name "DATA_OUT")
+      (class "Default")
+      (node
+        (ref "J4")
+        (pin "2")
+        (pintype "PASSIVE"))
+      (node
+        (ref "R1")
+        (pin "2")
+        (pintype "PASSIVE")))
+    (net
+      (code 6)
+      (name "GND")
+      (class "Default")
+      (node
+        (ref "C1")
+        (pin "2")
+        (pintype "PASSIVE"))
+      (node
+        (ref "C2")
+        (pin "2")
+        (pintype "PASSIVE"))
+      (node
+        (ref "J1")
+        (pin "14")
+        (pintype "PASSIVE"))
+      (node
+        (ref "J2")
+        (pin "1")
+        (pintype "PASSIVE"))
+      (node
+        (ref "J2")
+        (pin "7")
+        (pintype "PASSIVE"))
+      (node
+        (ref "J3")
+        (pin "2")
+        (pintype "PASSIVE"))
+      (node
+        (ref "J4")
+        (pin "3")
+        (pintype "PASSIVE"))
+      (node
+        (ref "U1")
+        (pin "1")
+        (pintype "INPUT"))
+      (node
+        (ref "U1")
+        (pin "12")
+        (pintype "INPUT"))
+      (node
+        (ref "U1")
+        (pin "5")
+        (pintype "INPUT"))
+      (node
+        (ref "U1")
+        (pin "7")
+        (pintype "POWER-IN"))
+      (node
+        (ref "U1")
+        (pin "9")
+        (pintype "INPUT")))))

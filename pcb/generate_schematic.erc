@@ -1,0 +1,40 @@
+ERC WARNING: Insufficient drive current on net GND for pin POWER-IN pin 7/GND of 74LS125/U1.
+ERC WARNING: Insufficient drive current on net +5V for pin POWER-IN pin 14/VCC of 74LS125/U1.
+ERC WARNING: Only one pin (PASSIVE pin 1/Pin_1 of Conn_01x19/J1) attached to net +3V3.
+ERC WARNING: Unconnected pin: PASSIVE pin 10/Pin_10 of Conn_01x19/J1.
+ERC WARNING: Unconnected pin: PASSIVE pin 11/Pin_11 of Conn_01x19/J1.
+ERC WARNING: Unconnected pin: PASSIVE pin 12/Pin_12 of Conn_01x19/J1.
+ERC WARNING: Unconnected pin: PASSIVE pin 13/Pin_13 of Conn_01x19/J1.
+ERC WARNING: Unconnected pin: PASSIVE pin 15/Pin_15 of Conn_01x19/J1.
+ERC WARNING: Unconnected pin: PASSIVE pin 16/Pin_16 of Conn_01x19/J1.
+ERC WARNING: Unconnected pin: PASSIVE pin 17/Pin_17 of Conn_01x19/J1.
+ERC WARNING: Unconnected pin: PASSIVE pin 18/Pin_18 of Conn_01x19/J1.
+ERC WARNING: Unconnected pin: PASSIVE pin 2/Pin_2 of Conn_01x19/J1.
+ERC WARNING: Unconnected pin: PASSIVE pin 3/Pin_3 of Conn_01x19/J1.
+ERC WARNING: Unconnected pin: PASSIVE pin 4/Pin_4 of Conn_01x19/J1.
+ERC WARNING: Unconnected pin: PASSIVE pin 5/Pin_5 of Conn_01x19/J1.
+ERC WARNING: Unconnected pin: PASSIVE pin 6/Pin_6 of Conn_01x19/J1.
+ERC WARNING: Unconnected pin: PASSIVE pin 7/Pin_7 of Conn_01x19/J1.
+ERC WARNING: Unconnected pin: PASSIVE pin 8/Pin_8 of Conn_01x19/J1.
+ERC WARNING: Unconnected pin: PASSIVE pin 9/Pin_9 of Conn_01x19/J1.
+ERC WARNING: Unconnected pin: PASSIVE pin 10/Pin_10 of Conn_01x19/J2.
+ERC WARNING: Unconnected pin: PASSIVE pin 11/Pin_11 of Conn_01x19/J2.
+ERC WARNING: Unconnected pin: PASSIVE pin 13/Pin_13 of Conn_01x19/J2.
+ERC WARNING: Unconnected pin: PASSIVE pin 14/Pin_14 of Conn_01x19/J2.
+ERC WARNING: Unconnected pin: PASSIVE pin 15/Pin_15 of Conn_01x19/J2.
+ERC WARNING: Unconnected pin: PASSIVE pin 16/Pin_16 of Conn_01x19/J2.
+ERC WARNING: Unconnected pin: PASSIVE pin 17/Pin_17 of Conn_01x19/J2.
+ERC WARNING: Unconnected pin: PASSIVE pin 18/Pin_18 of Conn_01x19/J2.
+ERC WARNING: Unconnected pin: PASSIVE pin 19/Pin_19 of Conn_01x19/J2.
+ERC WARNING: Unconnected pin: PASSIVE pin 2/Pin_2 of Conn_01x19/J2.
+ERC WARNING: Unconnected pin: PASSIVE pin 3/Pin_3 of Conn_01x19/J2.
+ERC WARNING: Unconnected pin: PASSIVE pin 4/Pin_4 of Conn_01x19/J2.
+ERC WARNING: Unconnected pin: PASSIVE pin 5/Pin_5 of Conn_01x19/J2.
+ERC WARNING: Unconnected pin: PASSIVE pin 6/Pin_6 of Conn_01x19/J2.
+ERC WARNING: Unconnected pin: PASSIVE pin 8/Pin_8 of Conn_01x19/J2.
+ERC WARNING: Unconnected pin: PASSIVE pin 9/Pin_9 of Conn_01x19/J2.
+ERC WARNING: Unconnected pin: TRISTATE pin 6/~ of 74LS125/U1.
+ERC WARNING: Unconnected pin: TRISTATE pin 8/~ of 74LS125/U1.
+ERC WARNING: Unconnected pin: TRISTATE pin 11/~ of 74LS125/U1.
+ERC INFO: 38 warnings found while running ERC.
+ERC INFO: 0 errors found while running ERC.
