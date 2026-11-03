@@ -1,0 +1,7 @@
+firmware/tests/test_firmware
+pcb/generate_schematic.log
+pcb/skidl_REPL.*
+pcb/*-backups/
+pcb/fp-info-cache
+pcb/*.kicad_prl
+__pycache__/
